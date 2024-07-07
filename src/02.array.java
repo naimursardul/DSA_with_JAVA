@@ -125,11 +125,11 @@ class array_demo {
         // int[] myArr = {1,6,3,2,5};
         
         
-        boolean num = checkPalindrome("madamm");
+        boolean isPalindrome = checkPalindrome("madamm");
         // moveZeroes(myArr);
         // printArr(myArr);
         // int secondMaxval = findSecondMax(myArr);
-        System.out.println(num);
+        System.out.println(isPalindrome);
     }
     
 }
